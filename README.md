@@ -20,7 +20,7 @@ What was I most happy about when creating this game?
 ## Planning
 
 - 3x3 board game
-- Player 1 - Player 2 - Computer 
+- Player 1 - Player 2 - Computer
 - invoke a eventListener ('click') to allow userInput to mark there play.
 - reset button to allow the browser board game to clear.
 
@@ -60,3 +60,11 @@ What was I most happy about when creating this game?
 - As a user, I want cosmetic options for different styles of board.
 - As a user, I want to be able to play different forms of the game, such as 3-dimensional Tic-Tac-Toe
 - As a user, I want the game to have a global match-making system so that I can play against other users that are similarly-ranked
+
+### WireFrame
+
+![Alt text](url)
+
+![Tic Tac Toe initial screen](assets/wireframe-main.png)
+
+<!-- ![About Tic Tac Toe] -->
