@@ -65,4 +65,4 @@ What was I most happy about when creating this game?
 
 ![Tic Tac Toe initial screen](assets/wireframe-main.png)
 
-<!-- ![About Tic Tac Toe] -->
+![About Tic Tac Toe](assets/wireframe-howtoplay.png)
